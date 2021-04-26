@@ -12,3 +12,7 @@ Concombre
 Citrons/Oranges
 
 Glaçons
+
+# PL
+
+Ninkasi Blonde, Ninkasi French IPA
